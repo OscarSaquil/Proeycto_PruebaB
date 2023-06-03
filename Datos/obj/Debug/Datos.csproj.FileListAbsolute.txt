@@ -1,0 +1,10 @@
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\bin\Debug\Datos.dll.config
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\bin\Debug\Datos.dll
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\obj\Debug\Datos.dll
+C:\Users\oscar\source\repos\GestionDeEstudiantes_ProyectoFinal\Datos\obj\Debug\Datos.pdb
